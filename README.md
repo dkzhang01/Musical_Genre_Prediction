@@ -1,4 +1,4 @@
-The dataset, taken from [Kaggle](https://www.kaggle.com/datasets/vicsuperman/prediction-of-music-genre), consisted of 50,000 observations, each representing an audio track that had been uploaded to Spotify. These observations were divided evenly into ten groups of 5,000 for each response class, recorded in the music_genre variable.
+The dataset, taken from [Kaggle](https://www.kaggle.com/datasets/vicsuperman/prediction-of-music-genre), consisted of 50,000 observations, each representing an audio track that had been uploaded to Spotify. These observations were divided evenly into ten groups of 5,000 for each response class, recorded in the music_genre variable. A copy of the csv is available as music_genre.csv
 
 STOR 565 Project.pdf contains the original analysis on this dataset.
 
